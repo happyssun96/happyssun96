@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  [![happyssun96's github stats](https://github-readme-stats.vercel.app/api?username=happyssun96)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=happyssun96" /> </p>
   </p>
 <h2 align="center">Tech Stack</h2>
 <p align="center"> Techs that I've used at least once </p>
