@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=happyssun96" /> </p>
   </p>
+-->
 <h2 align="center">Tech Stack</h2>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
